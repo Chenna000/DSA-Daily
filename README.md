@@ -19,6 +19,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 | 8  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Arrays | [SortedSquares.java](Arrays/SortedSquares.java) | Square + Sort |
 | 9  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Arrays | [PivotIndex.java](Arrays/PivotIndex.java) | Prefix + Suffix Sum |
 | 10 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | Arrays | [MiddleIndex.java](Arrays/MiddleIndex.java) | Prefix + Suffix Sum |
+| 11 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays | [MajorityElement.java](Arrays/MajorityElement.java) | Brute Force |
 
 ---
 
