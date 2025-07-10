@@ -16,6 +16,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 | 5  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)               | Arrays   | [MoveZeroes.java](Arrays/MoveZeroes.java)           | Two-pass (ArrayList)   |
 | 6  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)     | Strings  | [RomanToInteger.java](Strings/RomanToInteger.java)  | HashMap       |
 | 7  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays | [RemoveDuplicates.java](Arrays/RemoveDuplicates.java) | Two Pointers |
+| 8  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Arrays | [SortedSquares.java](Arrays/SortedSquares.java) | Square + Sort |
 
 ---
 
