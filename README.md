@@ -14,7 +14,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 | 9  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Arrays | [PivotIndex.java](Arrays/PivotIndex.java) | Prefix + Suffix Sum |
 | 10 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | Arrays | [MiddleIndex.java](Arrays/MiddleIndex.java) | Prefix + Suffix Sum |
 | 11 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays | [MajorityElement.java](Arrays/MajorityElement.java) | Brute Force |
-| 12 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | LinkedList | [DeleteMiddleNode.java](LinkedList/DeleteMiddleNode.java) | Value Overwrite |
+| 12 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | LinkedList | [DeleteMiddleNode.java](LinkedList/DeleteMiddleNode.java) | Slow Fast Pointer|
 
 ---
 
