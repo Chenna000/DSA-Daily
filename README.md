@@ -6,9 +6,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 |----|--------------------------------------------------------------------------|----------|----------------------------------------------------|------------------------|
 | 1  | [Rotate Array](https://leetcode.com/problems/rotate-array/)             | Arrays   | [RotateArray.java](Arrays/RotateArray.java)         | Reverse Array          |
 | 2  | [Two Sum](https://leetcode.com/problems/two-sum/)                        | Arrays   | [TwoSum.java](Arrays/TwoSum.java)                   | HashMap                |
-| 3  | [Plus One](https://leetcode.com/problems/plus-one/)                      | Arrays   | [PlusOne.java](Arrays/PlusOne.java)                 | Carry-over Loop        |
-| 4  | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Arrays   | [RunningSum.java
-](Arrays/RunningSumof1d Array.java)           | Prefix Sum             |
+| 3  | [Plus One](https://leetcode.com/problems/plus-one/)                      | Arrays   | [PlusOne.java](Arrays/PlusOne.java)                 | Carry-over Loop  
 | 5  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)               | Arrays   | [MoveZeroes.java](Arrays/MoveZeroes.java)           | Two-pass (ArrayList)   |
 | 6  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)     | Strings  | [RomanToInteger.java](Arrays/RomanToInteger.java)  | HashMap       |
 | 7  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Arrays | [RemoveDuplicates.java](Arrays/RemoveDuplicates.java) | Two Pointers |
