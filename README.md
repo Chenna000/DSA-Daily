@@ -1,9 +1,41 @@
-# DSA_DAILY 🚀
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode deleteMiddle(ListNode head) {
 
-This repo contains my daily solved DSA problems categorized by topic.
+        if(head.next==null){
+            head=null;
+            return head;
+        }
 
-## ✅ Solved DSA Problems
+        if(head.next.next==null){
+            head.next=null;
+            return head;
+        }
 
-| #  | Problem Name     | Category | Solution File             | Approach          |
-|----|------------------|----------|---------------------------|-------------------|
-| 1  | Rotate Array     | Arrays   | [RotateArray.java](Arrays/RotateArray.java) | Reverse Array     |
+        ListNode prev = null;
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(fast != null && fast.next != null){
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        if(slow.next != null){
+            slow.val = slow.next.val;
+            slow.next = slow.next.next;
+        }
+
+        return head;
+    }
+}
