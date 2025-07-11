@@ -1,52 +1,6 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
-class Solution {
-    public ListNode deleteMiddle(ListNode head) {
-
-<<<<<<< HEAD
-        if(head.next==null){
-            head=null;
-            return head;
-        }
-=======
 👋 **Hello Everyone!**  
 Welcome to my daily DSA journey! This repository contains all the Data Structures & Algorithms problems I'm solving every day, neatly organized by topic with links to Leetcode and my Java solutions.
 
----
->>>>>>> 011a607d8786c24aef677605067f3c5c1f3a5472
-
-        if(head.next.next==null){
-            head.next=null;
-            return head;
-        }
-
-<<<<<<< HEAD
-        ListNode prev = null;
-        ListNode slow = head;
-        ListNode fast = head;
-
-        while(fast != null && fast.next != null){
-            prev = slow;
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-
-        if(slow.next != null){
-            slow.val = slow.next.val;
-            slow.next = slow.next.next;
-        }
-
-        return head;
-    }
-}
 =======
 | #  | Problem Name                                                             | Category | Solution File                                       | Approach               |
 |----|--------------------------------------------------------------------------|----------|----------------------------------------------------|------------------------|
@@ -61,6 +15,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 | 9  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Arrays | [PivotIndex.java](Arrays/PivotIndex.java) | Prefix + Suffix Sum |
 | 10 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | Arrays | [MiddleIndex.java](Arrays/MiddleIndex.java) | Prefix + Suffix Sum |
 | 11 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays | [MajorityElement.java](Arrays/MajorityElement.java) | Brute Force |
+| 12 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | LinkedList | [LinkedList/DeleteMiddleNode.java](LinkedList/DeleteMiddleNode.java) | Value Overwrite |
 
 ---
 
