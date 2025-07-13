@@ -16,6 +16,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 | 11 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays | [MajorityElement.java](Arrays/MajorityElement.java) | Brute Force |
 | 12 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | LinkedList | [DeleteMiddleNode.java](LinkedList/DeleteMiddleNode.java) | Slow Fast Pointer|
 | 13 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | LinkedList | [ConvertBinaryToInteger.java](LinkedList/ConvertBinaryToInteger.java) | StringBuilder + Binary Parsing |
+| 14 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | LinkedList | [InsertGCDNodes.java](LinkedList/InsertGCDNodes.java) | GCD + In-place Node Insertion |
 
 ---
 
