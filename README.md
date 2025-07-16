@@ -21,6 +21,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 | 15 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Trees | [DiameterOfBinaryTree.java](Arrays/DiameterOfBinaryTree.java) | Recursive + Height Calculation |
 | 16 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | LinkedList | [ReverseBetween.java](LinkedList/ReverseBetween.java) | Array-based Rebuild |
 | 18 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | LinkedList | [ReverseKGroup.java](LinkedList/ReverseKGroup.java) | Recursive Group Reversal |
+| 19 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | LinkedList | [FlattenDoublyLinkedList.java](LinkedList/FlattenDoublyLinkedList.java) | Recursive In-place Flattening |
 
 ---
 
