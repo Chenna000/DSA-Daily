@@ -24,7 +24,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 | 19 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | LinkedList | [FlattenDoublyLinkedList.java](LinkedList/FlattenDoublyLinkedList.java) | Recursive In-place Flattening |
 | 20 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Arrays | [MaxAverageSubarrayI.java](Arrays/MaxAverageSubarrayI.java) | Sliding Window |
 | 21 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Arrays | [Arrays/MaximumSumOfDistinctSubarraysK.java](Arrays/MaximumSumOfDistinctSubarraysK.java) | Sliding Window + HashSet |
-| 22 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) |  [Arrays/FindHighestAltitude.java](Arrays/FindHighestAltitude.java) |Brute Force (Prefix Sum) + Optimal (Running Max) |
+| 22 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Arrays |(Arrays/FindHighestAltitude.java) |Brute Force (Prefix Sum) + Optimal (Running Max) |
 ---
 
 ## 📌 Follow Me
