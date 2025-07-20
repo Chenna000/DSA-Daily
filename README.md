@@ -26,6 +26,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 | 21 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Arrays | [Arrays/MaximumSumOfDistinctSubarraysK.java](Arrays/MaximumSumOfDistinctSubarraysK.java) | Sliding Window + HashSet |
 | 22 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Arrays |[FindHighestAltitude.java](Arrays/FindHighestAltitude.java) |Brute Force (Prefix Sum) + Optimal (Running Max) |
 | 23 | [Number of Sub-arrays of Size K and Average ≥ Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Arrays | [NumberOfSubarraysOfSizeKAndAvgGreaterThanThreshold.java](Arrays/NumberOfSubarraysOfSizeKAndAvgGreaterThanThreshold.java) | Sliding Window|
+| 24 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  Arrays | [LongestSubstringWithoutRepeatingCharacters.java](Arrays/LongestSubstringWithoutRepeatingCharacters.java) | Sliding Window +HashSet |
 
 ---
 
