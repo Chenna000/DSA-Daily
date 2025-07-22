@@ -30,6 +30,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 | 25 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | LinkedList | [MaximumTwinSumOfLinkedList.java](LinkedList/MaximumTwinSumOfLinkedList.java) | Reverse Second Half + Two Pointer |
 |26 | [Reorder List](https://www.geeksforgeeks.org/problems/reorder-list/1) | LinkedList | [ReorderList.java](LinkedList/ReorderList.java) | Find Middle + Reverse + Merge |
 | 27 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Linked List | [LinkedList/DeleteNodesFromLinkedListPresentInArray.java](LinkedList/DeleteNodesFromLinkedListPresentInArray.java) |Linked List + HashSet|
+| 28 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) |Linked List | [NextGreaterNodeInLinkedList.java](LinkedList/NextGreaterNodeInLinkedList.java) |Use Monostonic Stack|
 
 ---
 
