@@ -31,7 +31,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 |26 | [Reorder List](https://www.geeksforgeeks.org/problems/reorder-list/1) | LinkedList | [ReorderList.java](LinkedList/ReorderList.java) | Find Middle + Reverse + Merge |
 | 27 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Linked List | [LinkedList/DeleteNodesFromLinkedListPresentInArray.java](LinkedList/DeleteNodesFromLinkedListPresentInArray.java) |Linked List + HashSet|
 | 28 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) |Linked List | [NextGreaterNodeInLinkedList.java](LinkedList/NextGreaterNodeInLinkedList.java) |Use Monostonic Stack|
-| 29 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Linked List | [2816_Double_LinkedList.java](./2816_Double_LinkedList.java) | Reverse → Process → Reverse |
+| 29 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Linked List | [2816_Double_LinkedList.java](LinkedList/2816_Double_LinkedList.java) | Reverse → Process → Reverse |
 
 ---
 
