@@ -32,6 +32,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 | 27 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Linked List | [LinkedList/DeleteNodesFromLinkedListPresentInArray.java](LinkedList/DeleteNodesFromLinkedListPresentInArray.java) |Linked List + HashSet|
 | 28 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) |Linked List | [NextGreaterNodeInLinkedList.java](LinkedList/NextGreaterNodeInLinkedList.java) |Use Monostonic Stack|
 | 29 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Linked List | [2816_Double_LinkedList.java](LinkedList/2816_Double_LinkedList.java) | Reverse → Process → Reverse |
+| 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Linked List | [2487_RemoveNodes_LinkedList.java](LinkedList/2487_RemoveNodes_LinkedList.java) | Stack |
 
 ---
 
