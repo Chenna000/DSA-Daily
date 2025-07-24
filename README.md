@@ -33,6 +33,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 | 28 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) |Linked List | [NextGreaterNodeInLinkedList.java](LinkedList/NextGreaterNodeInLinkedList.java) |Use Monostonic Stack|
 | 29 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Linked List | [2816_Double_LinkedList.java](LinkedList/2816_Double_LinkedList.java) | Reverse → Process → Reverse |
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Linked List | [2487_RemoveNodes_LinkedList.java](LinkedList/2487_RemoveNodes_LinkedList.java) | Stack |
+| 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Linked List | [2181_MergeNodes_LinkedList.java](LinkedList/2181_MergeNodes_LinkedList.java) | Sum & Split on Zero |
 
 ---
 
