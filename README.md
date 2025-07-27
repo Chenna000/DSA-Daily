@@ -35,6 +35,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Linked List | [2487_RemoveNodes_LinkedList.java](LinkedList/2487_RemoveNodes_LinkedList.java) | Stack |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Linked List | [2181_MergeNodes_LinkedList.java](LinkedList/2181_MergeNodes_LinkedList.java) | Two Pointer |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Array / Prefix Product | [238_ProductExceptSelf.java](Arrays/238_ProductExceptSelf.java) | Prefix Left & Right Arrays |
+| 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) | Arrays | [2210_CountHillsValleys.java](Arrays/2210_CountHillsValleys.java) | Nearest Non-Equal Neighbor Comparison |
 
 ---
 
