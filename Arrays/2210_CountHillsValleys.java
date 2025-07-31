@@ -31,11 +31,6 @@ Output: 3
 📦 Space Complexity:
 - O(1), using constant extra space.
 
-😂 Funny Vote of Thanks:
-"Thanks to my code, those hills and valleys were easier to count than the stairs I avoid every day.  
-Special thanks to LeetCode for turning arrays into hiking trails!" 🥾😄
-*/
-
 class Solution {
     public int countHillValley(int[] nums) {
         int hillCount = 0;
