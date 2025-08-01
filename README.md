@@ -39,6 +39,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Arrays | [NextPermutation.java](Arrays/NextPermutation.java) | Pivot Swap + Reverse |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Arrays | [PascalsTriangle.java](Arrays/PascalsTriangle.java) | Binomial Coefficient |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Arrays | [MajorityElementII.java](Arrays/MajorityElementII.java) | Frequency > n/3 |
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Arrays | [SubarraySumEqualsK.java](Arrays/SubarraySumEqualsK.java) | Prefix Sum + HashMap |
 
 ---
 
