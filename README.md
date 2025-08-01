@@ -37,6 +37,7 @@ Welcome to my daily DSA journey! This repository contains all the Data Structure
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Array / Prefix Product | [238_ProductExceptSelf.java](Arrays/238_ProductExceptSelf.java) | Prefix Left & Right Arrays |
 | 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) | Arrays | [2210_CountHillsValleys.java](Arrays/2210_CountHillsValleys.java) | Nearest Non-Equal Neighbor Comparison |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Arrays | [NextPermutation.java](Arrays/NextPermutation.java) | Pivot Swap + Reverse |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Arrays | [PascalsTriangle.java](Arrays/PascalsTriangle.java) | Binomial Coefficient |
 
 ---
 
